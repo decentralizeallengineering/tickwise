@@ -1,5 +1,7 @@
 # tickwise
 
+[![tests](https://github.com/decentralizeallengineering/tickwise/actions/workflows/tests.yml/badge.svg)](https://github.com/decentralizeallengineering/tickwise/actions/workflows/tests.yml) ![license](https://img.shields.io/badge/license-Apache--2.0-blue)
+
 Adaptive tick intervals for agents that wake themselves (a scheduled wakeup or a cron), stdlib-only Python.
 
 ## Why
